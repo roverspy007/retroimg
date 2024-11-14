@@ -10,9 +10,13 @@ Why Choose Photon? Photon illuminates the world of crypto, making it accessible 
 Key Features:
 
 Instant, Accurate Responses: Powered by ChatGPT, Photon delivers precise answers to your crypto questions, from basic concepts to advanced topics.
+
 Understanding Crypto Fundamentals: Learn about various cryptocurrencies, blockchains, mining, trading, and investment principles with easy-to-grasp explanations.
+
 Interactive Conversations: Ask follow-up questions and explore topics in depth with an engaging dialogue format that helps clarify complex ideas.
+
 Focus on Specifics: Have questions about a particular coin, project, wallet, or investment strategy? Photon has you covered with targeted answers.
+
 Photon – Your Light in the Crypto Universe
 
 Photon doesn’t just answer questions; it empowers you with the knowledge you need to navigate the crypto world confidently. Download Photon today and let it be your beacon of understanding in the realm of digital currencies.
